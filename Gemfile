@@ -13,7 +13,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-gem 'sass-rails', ' 5.0'
+gem 'sass-rails', ' 5.0.4'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
